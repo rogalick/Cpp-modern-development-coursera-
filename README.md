@@ -4,7 +4,7 @@
 ![c-plus-plus-modern-development](https://habrastorage.org/web/86b/774/1cd/86b7741cd7184769906f89ee93a20b87.jpg)
 
 ### Courses
-- [ ] [**white belt**](https://www.coursera.org/learn/c-plus-plus-white)
+- [X] [**white belt**](https://www.coursera.org/learn/c-plus-plus-white)
 - [ ] [**yellow belt**](https://www.coursera.org/learn/c-plus-plus-yellow)
 - [ ] [**red belt**](https://www.coursera.org/learn/c-plus-plus-red)
 - [ ] [**brown belt**](https://www.coursera.org/learn/c-plus-plus-brown)
