@@ -14,4 +14,3 @@ Value& GetRefStrict(map<Key, Value>& m, Key k) {
 		throw runtime_error("K isn`t exist\n");
 	}
 }
-
