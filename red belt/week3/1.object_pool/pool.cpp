@@ -31,7 +31,7 @@ public:
 			return nullptr;
 		return Replace();
 	}
-	void Deallocate(T* object)A {
+	void Deallocate(T* object) {
 		if (auto t = alloced.find(object); t != alloced.end()) {
 			sleeped.push(alloced.extract(t).value());
 		}
